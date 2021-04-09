@@ -18,7 +18,7 @@ In 2006, Caruana & Niculescu-Mizil wrote a paper evaluating various supervised l
 ### Metrics:
 * Accuracy
 * Receiver Operating Characteristic (ROC) Area Under Curve (AUC)
-* Decision Trees
+* F1 Score
 
 ### Datasets:
 * ADULT - measuring income of adults in America based on certain standards
