@@ -11,7 +11,7 @@ In 2006, Caruana & Niculescu-Mizil wrote a paper evaluating various supervised l
 * matplotlib
 
 ### Algorithms:
-* Support Vector Machiens
+* Support Vector Machines
 * Decision Trees
 * Logistic Regression
 
